@@ -17,4 +17,12 @@ public class GitMethods {
 		System.out.println("Method 4");
 
 	}
+	public void method5() {
+		System.out.println("Method 4");
+
+	}
+	public void method6() {
+		System.out.println("Method 4");
+
+	}
 }
